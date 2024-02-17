@@ -9,3 +9,6 @@ The entire process will be free-of-cost.
 
 The plan involves multiple centralized medical stations in various locations, that support our application, to ensure speedy delivery of life-saving supplies which wouldn't have been possible without drones.
 Once a request has been placed, the nearest available medical station would accept the request, and send out a drone to complete the delivery.
+
+
+Link to the documentation and pitch: https://docs.google.com/presentation/d/1YcHOebxPk7D9K_Q3faLzJrePZKkTU5zutEYE-HdYfpM/edit#slide=id.g2696ef59208_0_59
